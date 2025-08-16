@@ -2,7 +2,7 @@ version: '3.0'
 
 services:
   main:
-    container_name: poll-bot
+    container_name: friends_poll_bot
     platform: linux/amd64
     build:
       context: .
